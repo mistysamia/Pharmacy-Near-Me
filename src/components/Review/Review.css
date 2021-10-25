@@ -1,0 +1,28 @@
+
+.reviewPart{
+    color:rgb(110, 76, 31);
+    margin: 10% 0%;
+}
+.eachReviewer{
+    background-color: rgb(235, 225, 235);
+    padding-bottom: 2%;
+}
+
+ .eachReviewerImg{
+     padding: 4% 0%;
+ }
+ .eachReviewerImg .imgPart{
+     height: 250px;
+     width: 240px;
+     padding: 5%;
+ }
+ .eachReviewerImg .imgPart img{
+     height: 100%;
+     width: 100%;
+     border-radius: 50%;
+     border: 2px solid rgb(170, 163, 163);
+ }
+ .eachReviewerName {
+     color: rgb(255, 0, 43);
+ }
+ 

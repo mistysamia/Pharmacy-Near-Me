@@ -1,0 +1,33 @@
+.eachAmbulanceSHow{
+      background-color: rgb(202, 214, 202);
+      margin: 3% 0%;
+      border-radius: 7px;   
+}
+.eachAmbulanceSHow:hover{
+    box-shadow: 0px 0px 10px grey;
+}
+.eachAmbulance{
+    padding: 2%;
+}
+.ambulanceImg{
+    height: 210px;
+    width: 270px;
+    padding: 4% 0%;
+}
+.ambulanceImg img{
+    height: 100%;
+    width: 100%;
+    box-shadow: 0px 0px 10px rgb(37, 36, 36);
+}
+.ambulanceDetails{
+    padding-top: 5%;
+}
+
+@media (max-width: 450px) { 
+    .ambulanceImg img{
+        height: 75%;
+        width: 75%;
+        margin-left: 7%;
+    }
+
+}

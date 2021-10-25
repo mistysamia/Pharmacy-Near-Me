@@ -1,0 +1,17 @@
+.carouselImg{
+    height: 670px;
+}
+
+.headerTitle{
+    margin: 5% 0% ;
+}
+.headerTitle span{
+    color: rgb(196, 29, 0);
+}
+.headerTitle p{
+    font-size: 17px;
+}
+
+.pharmacyDisplay{
+    padding: 0% 8%;
+}

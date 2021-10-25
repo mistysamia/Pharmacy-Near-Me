@@ -1,0 +1,65 @@
+.HealthextraImgPart{
+    background: url('../../images/healthBg.jpg') center;
+    background-size: cover;
+    min-height: 500px;
+    opacity: 0.7;
+ }
+ .HealthHeader{
+    background-color: black;
+    color: rgb(214, 207, 207);
+ }
+ .topArticle{
+     text-align: start;
+ }
+ .topArticle p{
+     font-size: large;
+ }
+
+.headerTitle{
+    margin: 4% 0% 7% 0%;
+}
+.headerTitle span{
+    color: rgb(196, 29, 0);
+}
+.headerTitle p{
+    font-size: 17px;
+}
+
+ .healthyTipsHeadings{
+     border-bottom: 2px solid rgb(19, 18, 18);
+     margin-top: 7%;
+     color: rgb(218, 62, 0);
+ }
+
+ .coffeeTips h2{
+     color: rgb(110, 167, 5);
+ }
+ .coffeeTips p{
+    font-size: large;
+ }
+
+
+ .healthOrganization{
+     margin-bottom: 6%;
+ }
+ .healthOrganization .eachHealthOrganizationPart{
+    background-color: rgb(243, 239, 239); 
+    width: 100%;
+    padding: 2%;
+    border-radius: 7px;
+ }
+ .eachHealthOrganization a{
+    text-decoration: none;
+ }
+ .healthOrganization .eachHealthOrganizationPart h2{
+     color: rgb(0, 26, 255);
+ }
+ .healthOrganization .eachHealthOrganizationPart p{
+     color: black;
+ }
+
+ @media  (max-width: 570px) { 
+   .englandHealth {
+         margin-top: 5%;
+   }
+}

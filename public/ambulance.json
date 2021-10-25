@@ -1,0 +1,44 @@
+[
+    {
+        "key": "1",
+        "name": "Asha Ambulance",
+        "location": "https://goo.gl/maps/5gentbquiXeqZLoj9",
+        "img": "https://i.ibb.co/b5Trzn6/pexels-nothing-ahead-3584101.jpg",
+        "star":4.5 
+    },
+      {
+        "key": "2",
+        "name": "Hamiza Service",
+        "location": "https://goo.gl/maps/bAfJnNB3ZiuAMmp4A",
+        "img": "https://i.ibb.co/vqwdVHm/pexels-rodnae-productions-6519841.jpg",
+        "star":3.4 
+    },
+      {
+        "key": "3",
+        "name": "Acmee Ambulance",
+        "location": "https://goo.gl/maps/aimpBe8ZPVNouTfX7",
+        "img": "https://i.ibb.co/VYp0Bny/pexels-pavel-danilyuk-6754163.jpg",
+        "star":3.9
+    },
+      {
+        "key": "4",
+        "name": "Lotus Abmulance Service",
+        "location": "https://goo.gl/maps/qNEnyxhYr4fXrsLKA",
+        "img": "https://i.ibb.co/8bmyGC7/pexels-pixabay-263402.jpg",
+        "star":4.4
+    },
+      {
+        "key": "5",
+        "name": "Modern Emergency",
+        "location": "https://goo.gl/maps/CViyzJZfGpBLjyub6",
+        "img": "https://i.ibb.co/5cVW7BB/pexels-pavel-danilyuk-6753482.jpg",
+        "star":4.7 
+    },
+      {
+        "key": "6",
+        "name": "Renata  Limited",
+        "location": "https://goo.gl/maps/1pm7jCz4eF293oQb8",
+        "img": "https://i.ibb.co/TkDFf0x/pexels-antonio-batini-5364345.jpg",
+        "star":3.6
+    }
+]

@@ -1,0 +1,30 @@
+.eatingTips {
+    background: url('../../images/healthyTips1.jpg') center; 
+}
+.checkupTips{
+    background: url('../../images/healthyTips4.jpg') center;
+} 
+.drinkTips{
+    background: url('../../images/healthyTips3.jpg') center;
+}
+.exerciseTips{
+    background: url('../../images/healthyTips2.jpg') center;
+}
+.eatingTips , .exerciseTips ,.checkupTips,.drinkTips {
+    background-size: cover;
+    min-height: 400px;
+}
+.eatingTips:hover , .drinkTips:hover , .checkupTips:hover ,.exerciseTips:hover{
+    opacity: 0.7;
+  
+}
+.eachTips a{
+    color: black;
+    display: none;
+}
+.eatingTips:hover .eachTips a , .drinkTips:hover .eachTips a , 
+.checkupTips:hover .eachTips a, .exerciseTips:hover .eachTips a{
+    color: rgb(211, 27, 27);
+    display: block;
+}
+
