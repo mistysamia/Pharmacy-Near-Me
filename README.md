@@ -4,7 +4,11 @@
 <br/>
 In this project, a management system has been developed for a Pharmacy. The pharmacy management system can help a drug store in proper maintenance of drugs in regards to health and business aspects. Also, health related tips and emergency ambulance services can be availed through this system.
 
-<a href="https://pharmacy-near-me-8fcf3.web.app/?fbclid=IwAR2Y1D7L5H2r86zhkHqaelbq6ps0ysT7LBnf9qvVl5nrR5n9No-WrlUjQoU" target='_blank'>Visit My Website</a>
+<a href="https://pharmacy-near-me-8fcf3.web.app" 
+target='_blank'>Visit My Website</a>
+
+
+
 </p>
 
 <h3>Features </h3>
